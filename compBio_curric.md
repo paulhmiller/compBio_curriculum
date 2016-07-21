@@ -4,7 +4,7 @@ Computational Biology Curriculum
 Goal: to become proficient at manipulating high content biological datasets to a level of being comfortable taking an job using these skills.
 
 ## Overview
-- Use Github for as much as possible
+- Use Github for as many things as possible
 - Keep in mind when best to use R vs Python vs bash vs other
 - Learn this like anything else: it’s just time on the water
 

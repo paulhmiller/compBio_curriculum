@@ -1,7 +1,7 @@
 Computational Biology Curriculum
 ================================
 
-Goal: to become proficient at manipulating high content biological datasets to a level of being comfortable taking an job using these skills.
+Purpose: to list material and courses to help one become proficient at manipulating high content biological datasets, to a level of being comfortable taking an job in computational biology.
 
 ## Overview
 - Use Github for as many things as possible
